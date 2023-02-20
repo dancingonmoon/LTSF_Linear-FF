@@ -1,4 +1,4 @@
-model_checkpoint_path: "CusomModel_F20_230219-878"
-all_model_checkpoint_paths: "CusomModel_F20_230219-878"
-all_model_checkpoint_timestamps: 1676810694.8778098
+model_checkpoint_path: "CusomModel_F20_230220-673"
+all_model_checkpoint_paths: "CusomModel_F20_230220-673"
+all_model_checkpoint_timestamps: 1676897415.1857433
 last_preserved_timestamp: 1672622343.3459525
